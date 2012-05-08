@@ -1,0 +1,2 @@
+/Users/ericgallager/lci/lciframework/CMakeFiles/docs.dir
+/Users/ericgallager/lci/lciframework/CMakeFiles/lci.dir
