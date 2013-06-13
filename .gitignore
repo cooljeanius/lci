@@ -5,4 +5,12 @@ CMakeFiles/*
 CMakeCache.txt
 CmakeFiles
 build
-
+*.o
+*.bin
+*.log
+*~
+*.out
+*.cache
+*.pyc
+*.pbxuser
+*.perspectivev3
