@@ -16,3 +16,4 @@ build
 *.perspectivev3
 lciframework/html/*
 lciframework/lci
+lciframework/install_manifest.txt
