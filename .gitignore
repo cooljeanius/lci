@@ -1,9 +1,9 @@
-.DS_Store
+*DS_Store*
 build/*
 *.build
 CMakeFiles/*
 CMakeCache.txt
-CmakeFiles
+*/CmakeFiles
 build
 *.o
 *.bin
